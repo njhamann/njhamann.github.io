@@ -1,6 +1,17 @@
+### running development server
+```
+jekyll serve
+```
+
+### pushing to prod
+```
+#push to master
+git push origin master
+```
+
 # Kasper
 
-> This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
+> This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll.
 Feel free to fork, change, modify and re-use it.
 
 ## Installation
@@ -37,7 +48,7 @@ Build page into `_site` folder
 
 ## Thanks
 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
+Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll.
 I've also added few things specific to Jekyll and some minor style changes.
 
 ## Copyright & License
